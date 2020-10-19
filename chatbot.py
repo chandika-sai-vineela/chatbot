@@ -3,7 +3,7 @@ import requests
 
 
 def intro():
-    print("Hello user! I am volte. May I know your name?")
+    print("Hello user! I am volta. May I know your name?")
 
 def time():
     current_time=datetime.now()
@@ -28,11 +28,11 @@ def volte():
     greet(name)
 
 def stop():
-    n=input("do u want to see result of another country yes/no :")
+    n=input("Do u want to see result of another country yes/no :")
     if(n=="yes"):
         Demo()
     elif(n=="no"):
-        print("tq for sepnding ur valuble time")
+        print("Thankyou for sepnding ur valuble time")
     else:
         print("enter only yes/no other or invalid")
         stop()
