@@ -12,7 +12,7 @@ WORKING OF CHATBOT:
 1.We named our chatbot as "VOLTA".
 2.Volta introduces it self first.
 3.Next it asks for your name and greets you according to time of the day.
-4.And then it provides you with information regarding covid cases according to the user input.
+4.And then it provides you with information regarding covid cases according to the user input.if the input invalid volta will guide in correct way
 
 Youtube link for this chatbot:https://youtu.be/VpGTU4oo_Sw
 
